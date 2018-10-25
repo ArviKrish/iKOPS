@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">iKOPS</string>
+
+    <string name="dashboard">DASHBOARD</string>
+    <string name="member_profile">Member Profile</string>
+    <string name="children_profile">Children Profile</string>
+    <string name="statement">Statement</string>
+    <string name="member_ledger">Member Ledger</string>
+    <string name="balance">Balance</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="notifications">Notifications</string>
+    <string name="activities">Activities</string>
+    <string name="e_forms">e-Forms</string>
+
+</resources>
